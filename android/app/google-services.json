@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887815161877",
+    "project_id": "daily-wellness-app-e7f71",
+    "storage_bucket": "daily-wellness-app-e7f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887815161877:android:3bfa7b7a03ec335a34a61c",
+        "android_client_info": {
+          "package_name": "com.rudster99.dailywellnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFPnxktlMcdrFYxT-gr64AAm1yeesZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
